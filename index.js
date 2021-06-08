@@ -1,3 +1,3 @@
-const main = require('./main.js')
+const nest = require('./main.js')
 
-main()
+console.log(nest('[  ()  )df df]'))
